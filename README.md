@@ -98,10 +98,10 @@ java numeric-operations.parOuImparV1.ParOuImparV1
 Verifica o maior número entre dois valores fornecidos pelo usuário.
 
 ### 🔢 **Maior Número versão-2**
-Verifica o maior número entre três valores fornecidos pelo usuário.
+Verifica o maior número entre dois valores fornecidos pelo usuário.
 
 ### 🔢 **Maior Número versão-3**
-Verifica o maior número entre uma quantidade indefinida de valores fornecidos pelo usuário.
+Verifica o maior número entre três valores fornecidos pelo usuário.
 
 ### 📊 **Ordenar Números**
 Ordena três números fornecidos pelo usuário em ordem crescente.
@@ -110,7 +110,7 @@ Ordena três números fornecidos pelo usuário em ordem crescente.
 Verifica se um número fornecido pelo usuário é par ou ímpar.
 
 ### 🔄 **Par ou Ímpar versão-2**
-Verifica se um número é par ou ímpar utilizando operações bitwise para melhor eficiência.
+Verifica se um número fornecido pelo usuário é par ou ímpar.
 
 ### 📝 **Sobrenome Primeiro**
 Exibe um nome no formato "Sobrenome, Nome", útil para listagens.
@@ -122,12 +122,12 @@ Verifica se a nota do aluno é suficiente para aprovação, considerando a médi
 Calcula a média de múltiplas notas e determina se o aluno está aprovado.
 
 ### 🎓 **Verificar Aprovação versão-2**
-Inclui critérios adicionais para aprovação, como presença mínima.
+Verifica se a nota do aluno é suficiente para aprovação, considerando a média mínima estabelecida.
 
 ### ➗ **Verificar Divisibilidade**
 Verifica se um número fornecido pelo usuário é divisível por outro.
 
-### 🔞 **Verificar Maioridade**
+### 🔞 **Verificar Maior Idade**
 Determina se uma pessoa é maior de idade com base na idade fornecida.
 
 ### 🔞 **Verificar Maioridade versão-1**
@@ -140,19 +140,19 @@ Permite definir uma idade mínima personalizada para maioridade.
 Classifica um número como positivo, negativo ou zero.
 
 ### 🔢 **Verificar Número versão-2**
-Classifica um número como inteiro ou decimal.
+Classifica um número como positivo, negativo ou zero.
 
 ### ➕ **Verificar Soma**
-Verifica se a soma de dois números fornecidos pelo usuário é igual a um terceiro número.
+Programa que lê três números e verifica se a soma deles é positiva, negativa ou igual a zero.
 
 ### 🔺 **Verificar Triângulo**
 Determina se três lados fornecidos pelo usuário formam um triângulo válido.
 
 ### 🗳️ **Verificar Votação**
-Verifica se uma pessoa pode votar com base na idade.
+Programa que lê o ano de nascimento de uma pessoa e verifica se ela está apta a votar (idade ≥ 16 anos).
 
 ### 🗳️ **Verificar Votação versão-2**
-Inclui verificações adicionais, como voto facultativo.
+Programa que lê o ano de nascimento de uma pessoa e verifica se ela está apta a votar (idade ≥ 16 anos).
 
 ---
 
