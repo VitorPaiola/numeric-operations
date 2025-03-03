@@ -152,7 +152,10 @@ Determina se três lados fornecidos pelo usuário formam um triângulo válido.
 Programa que lê o ano de nascimento de uma pessoa e verifica se ela está apta a votar (idade ≥ 16 anos).
 
 ### 🗳️ **Verificar Votação versão-2**
-Programa que lê o ano de nascimento de uma pessoa e verifica se ela está apta a votar (idade ≥ 16 anos).
+Programa que lê a idade de uma pessoa e determina sua aptidão para votar, conforme a seguinte classificação:
+- **Não está apta a votar**: Se a idade for inferior a 16 anos.
+- **Apta a votar, mas não é obrigada**: Se a idade for entre 16 e 17 anos, ou igual ou superior a 70 anos.
+- **Obrigada a votar**: Se a idade for entre 18 e 69 anos.
 
 ---
 
