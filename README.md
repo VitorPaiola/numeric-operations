@@ -157,6 +157,10 @@ Programa que lê a idade de uma pessoa e determina sua aptidão para votar, conf
 - **Apta a votar, mas não é obrigada**: Se a idade for entre 16 e 17 anos, ou igual ou superior a 70 anos.
 - **Obrigada a votar**: Se a idade for entre 18 e 69 anos.
 
+## 📌 Quer acompanhar mais dicas e novidades sobre Java?
+
+🔔 Fique por dentro de tudo sobre Java! Me siga no [Twitter](https://x.com/v__souz) para receber dicas, novidades e atualizações! 🚀✨
+
 ---
 
 ### 📜 **Licença**
