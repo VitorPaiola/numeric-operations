@@ -15,7 +15,7 @@ Abaixo estão as funcionalidades de cada programa.
 ## 📌 Confira meu artigo no DEV.to
 
 Para aprender mais sobre Java e ver exemplos de exercícios, confira meu artigo no 
-[DEV.to](https://dev.to/vitorpaiola/lista-de-exercicios-basicos-em-java-part-2-5aj2)! 🚀
+[DEV.to](https://dev.to/vitorpaiola/lista-de-exercicios-basicos-em-java-part-3-49b7)! 🚀
 
 ## 📂 Estrutura do Projeto
 
