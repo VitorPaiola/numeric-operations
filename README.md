@@ -1,5 +1,7 @@
 # 📌 Operações Numéricas em Java
 
+![java-5](https://github.com/user-attachments/assets/bec50591-407a-42ff-beb6-4d5c957e7324)
+
 Este repositório contém diversos programas em Java que realizam operações numéricas, 
 como comparação de valores, ordenação, verificação de divisibilidade, 
 classificação de números pares ou ímpares, entre outros. 
